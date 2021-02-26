@@ -1,1 +1,1 @@
-hoge
+java practice
